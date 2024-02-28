@@ -1,0 +1,11 @@
+* Gruvbox for Google Chrome
+
+Bring nostalgic yet stylish aeshthetic to your browser with this dark retro theme based on [[https://github.com/morhetz/gruvbox][Gruvbox by morhetz]].
+
+#+begin_comment
+Put installation link and screenshots here.
+#+end_comment
+
+** License
+
+This project is licensed under the [[./LICENSE][MIT License]].
